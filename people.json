@@ -5,11 +5,6 @@
         "github": "cgentemann"
     },
     {
-        "name": "Andy Harris",
-        "organization": "Dis",
-        "github": "andy123harris"
-    },
-    {
         "name": "Tasha Snow",
         "organization": "Colorado School of Mines",
         "github": "tsnow03"
@@ -33,10 +28,11 @@
         "name": "Andrea Pisano",
         "organization": "ISMAR CNR",
         "github": "andreapisano"
-    },
-{
-        "name": "Chunxue Yang",
-        "organization": "ISMAR CNR",
-        "github": "chunxueyang"
     }
+{
+        "name": "Jean-François Cayula",
+        "organization": "Peraton",
+        "github": "Peraton"
+    }
+
 ]
